@@ -1,20 +1,20 @@
 <div align="center">
 
-  <!-- Animasyonlu Başlık -->
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=ARAS+VEYRON;KOD+İLE+GELECEĞİ+TASARLIYORUZ;YARATICILIK+VE+TEKNOLOJİ&center=true&width=600&height=50&color=61dafb&vCenter=true&size=35&weight=700">
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=ARAS+VEYRON;KOD+İLE+GELECEĞİ+TASARLIYORUZ;YARATICILIK+VE+TEKNOLOJİ&center=true&width=600&height=50&color=61dafb&vCenter=true&size=35&weight=700">
+  </h1>
 
   <p>
     <b>💻 Full-Stack Yazılım Geliştirici | 🌌 Teknoloji Meraklısı | ⚡ Minimalist Çözümler</b>
   </p>
 
-  <!-- Sosyal Rozetler -->
   <p align="center">
     <a href="https://github.com/ayzron">
-      <img src="https://img.shields.io/github/followers/ayzron?label=Bize%20Katıl&style=social" />
+      <img src="https://img.shields.io/badge/GitHub-Takip--Et-181717?style=for-the-badge&logo=github&logoColor=white" />
     </a>
     &nbsp;
     <a href="mailto:ayzron.dev@outlook.com">
-      <img src="https://img.shields.io/badge/İletişim-E--posta-blue?style=flat-square&logo=microsoftoutlook&logoColor=white" />
+      <img src="https://img.shields.io/badge/İletişim-E--posta-blue?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
     </a>
   </p>
 
@@ -34,12 +34,8 @@ Geleneksel sınırların ötesine geçmeyi seven, her projede verimliliği ve es
 ### 🧰 Yetkinliklerim
 
 <p align="left">
-  <!-- Masaüstü -->
   <img src="https://img.shields.io/badge/Masaüstü-C%23%20%7C%20C%2B%2B%20%7C%20.NET-7957d5?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <!-- Web -->
   <img src="https://img.shields.io/badge/Web-React%20%7C%20Next.js%20%7C%20Node.js-20c997?style=for-the-badge&logo=react&logoColor=white" />
-  <!-- Araçlar -->
-  <img src="https://img.shields.io/badge/Araçlar-Git%20%7C%20Docker%20%7C%20VS%20Code-343a40?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 <div align="center">
@@ -51,19 +47,10 @@ Geleneksel sınırların ötesine geçmeyi seven, her projede verimliliği ve es
 ### 📊 GitHub Panoraması
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ayzron&show_icons=true&theme=dark&locale=tr&hide_border=true&title_color=61dafb">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ayzron&show_icons=true&theme=default&locale=tr&hide_border=true&title_color=007acc">
-    <img src="https://github-readme-stats.vercel.app/api?username=ayzron&show_icons=true&theme=dark&locale=tr&hide_border=true&title_color=61dafb">
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ayzron&theme=dark&locale=tr&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ayzron&theme=default&locale=tr&hide_border=true">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayzron&theme=dark&locale=tr&hide_border=true">
-  </picture>
+  <!-- Bu servislerin en kararlı versiyonlarını seçtim -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ayzron&show_icons=true&theme=vue-dark&locale=tr" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayzron&theme=black-ice&locale=tr" />
 </p>
 
 ---
@@ -73,7 +60,7 @@ Geleneksel sınırların ötesine geçmeyi seven, her projede verimliliği ve es
   ### 🤝 Bağlantı Kuralım
   
   <a href="https://github.com/ayzron">
-    <img src="https://img.shields.io/badge/GitHub-Takip-lightgrey?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Profilim-lightgrey?style=for-the-badge&logo=github" />
   </a>
   &nbsp;
   <a href="mailto:ayzron.dev@outlook.com">
