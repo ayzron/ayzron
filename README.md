@@ -1,7 +1,11 @@
 <div align="center">
 
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Merhaba,+Ben+Aras+Veyron;Kodla.+Olu%C5%9Ftur.+Geli%C5%9F.;Gelece%C4%9Fi+İn%C5%9Fa+Ediyorum&center=true&width=500&height=50&color=61dafb&vCenter=true&size=30">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?lines=Merhaba,+Ben+Aras+Veyron;Kodla.+Olu%C5%9Ftur.+Geli%C5%9F.;Gelece%C4%9Fi+İn%C5%9Fa+Ediyorum&center=true&width=500&height=50&color=61dafb&vCenter=true&size=30">
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com/?lines=Merhaba,+Ben+Aras+Veyron;Kodla.+Olu%C5%9Ftur.+Geli%C5%9F.;Gelece%C4%9Fi+İn%C5%9Fa+Ediyorum&center=true&width=500&height=50&color=007acc&vCenter=true&size=30">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Merhaba,+Ben+Aras+Veyron;Kodla.+Olu%C5%9Ftur.+Geli%C5%9F.;Gelece%C4%9Fi+İn%C5%9Fa+Ediyorum&center=true&width=500&height=50&color=61dafb&vCenter=true&size=30">
+    </picture>
   </h1>
 
   <p>
@@ -41,9 +45,17 @@
 ### 📊 GitHub İvmem
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayzron&theme=dark" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ayzron&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ayzron&theme=default">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayzron&theme=dark">
+  </picture>
   <br/>
-  <img src="https://github-activity-graph.vercel.app/graph?username=ayzron&theme=github-dark" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-activity-graph.vercel.app/graph?username=ayzron&theme=github-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-activity-graph.vercel.app/graph?username=ayzron&theme=github-light">
+    <img src="https://github-activity-graph.vercel.app/graph?username=ayzron&theme=github-dark">
+  </picture>
 </p>
 
 ---
