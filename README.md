@@ -13,7 +13,7 @@
       <img src="https://img.shields.io/github/followers/ayzron?label=TAKIP%20ET&style=for-the-badge&color=24292e&logo=github" />
     </a>
     <a href="https://github.com/ayzron?tab=stars">
-      <img src="https://img.shields.io/github/stars/ayzron?label=YILDIZLAR&style=for-the-badge&color=fcc419&logo=reverbnation&logoColor=white" />
+      <img src="https://img.shields.io/badge/YILDIZLAR-0-fcc419?style=for-the-badge&logo=github&logoColor=white" />
     </a>
   </p>
 
@@ -41,9 +41,9 @@
 ### 📊 GitHub İvmem
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayzron&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayzron&show_icons=true&theme=dracula" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayzron&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayzron&layout=compact&theme=dracula" />
 </p>
 
 ---
