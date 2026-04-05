@@ -9,8 +9,12 @@
   </p>
 
   <p align="center">
-    <img src="https://img.shields.io/github/followers/ayzron?label=Takip%20Et&style=for-the-badge&color=24292e&logo=github" />
-    <img src="https://img.shields.io/github/stars/ayzron?label=Yıldızlar&style=for-the-badge&color=fcc419&logo=reverbnation&logoColor=white" />
+    <a href="https://github.com/ayzron">
+      <img src="https://img.shields.io/github/followers/ayzron?label=TAKIP%20ET&style=for-the-badge&color=24292e&logo=github" />
+    </a>
+    <a href="https://github.com/ayzron?tab=stars">
+      <img src="https://img.shields.io/github/stars/ayzron?label=YILDIZLAR&style=for-the-badge&color=fcc419&logo=reverbnation&logoColor=white" />
+    </a>
   </p>
 
 </div>
@@ -37,9 +41,9 @@
 ### 📊 GitHub İvmem
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayzron&show_icons=true&theme=tokyonight&hide_border=true&title_color=61dafb&icon_color=ff79c6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayzron&show_icons=true&theme=radical" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayzron&layout=compact&theme=tokyonight&hide_border=true&title_color=61dafb" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayzron&layout=compact&theme=radical" />
 </p>
 
 ---
