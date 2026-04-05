@@ -1,52 +1,65 @@
-<h1 align="center">Hi 👋, I'm Aras Veyron</h1>
-<h3 align="center">🚀 Code. Create. Evolve.</h3>
+<div align="center">
+
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Merhaba,+Ben+Aras+Veyron;Kodla.+Olu%C5%9Ftur.+Geli%C5%9F.;Gelece%C4%9Fi+İn%C5%9Fa+Ediyorum&center=true&width=500&height=50&color=61dafb&vCenter=true&size=30">
+  </h1>
+
+  <p>
+    <b>🚀 Tutkulu bir Geliştirici & Yaratıcı Akıl</b>
+  </p>
+
+  <p align="center">
+    <img src="https://img.shields.io/github/followers/ayzron?label=Takip%20Et&style=for-the-badge&color=24292e&logo=github" />
+    <img src="https://img.shields.io/github/stars/ayzron?label=Yıldızlar&style=for-the-badge&color=fcc419&logo=reverbnation&logoColor=white" />
+  </p>
+
+</div>
+
+---
+
+### 🧠 Vizyonum
+**Ayzron** çatısı altında sadece kod yazmıyorum; dijital dünyada iz bırakacak çözümler üretiyorum. Yazılımın gücüyle karmaşık problemleri basit ve zarif araçlara dönüştürmeye odaklanıyorum.
+
+- 🔭 **Şu an:** Masaüstü ve Web teknolojileri üzerinde uzmanlaşıyorum.
+- ⚡ **Felsefem:** "Mükemmellik, eklenecek bir şey kalmadığında değil, çıkarılacak bir şey kalmadığında elde edilir."
+- 🔥 **Tarzım:** İstikrarlı, kararlı ve sürekli gelişim odaklı.
+
+---
+
+### 🛠️ Teknoloji Cephaneliğim
+
+| 🖥️ Masaüstü | 🌐 Web Geliştirme | ⚙️ Araçlar & Diğer |
+| :--- | :--- | :--- |
+| <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet" /> | <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs" /> | <img src="https://skillicons.dev/icons?i=python,git,github,vscode,tailwind,mysql" /> |
+
+---
+
+### 📊 GitHub İvmem
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Developer;Builder;Always+Learning;Ayzron&center=true&width=380&height=45">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayzron&show_icons=true&theme=tokyonight&hide_border=true&title_color=61dafb&icon_color=ff79c6" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayzron&layout=compact&theme=tokyonight&hide_border=true&title_color=61dafb" />
 </p>
 
 ---
 
-### 🧠 About Me
-- 💻 Passionate about coding  
-- ⚡ Building projects under **Ayzron**  
-- 🌌 Interested in technology & innovation  
-- 🔥 Focused. Consistent. Relentless.  
+### 📬 İletişimde Kalalım
+
+<div align="center">
+
+  <a href="mailto:ayzron.dev@outlook.com">
+    <img src="https://img.shields.io/badge/E--posta-ayzron.dev%40outlook.com-blue?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/ayzron">
+    <img src="https://img.shields.io/badge/GitHub-Profilim-lightgrey?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+</div>
 
 ---
 
-### 🖥️ Desktop Development
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet" />
-</p>
-
-### 🌐 Web Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs" />
-</p>
-
-### ⚙️ Tools & Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayzron&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayzron&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 🌐 Connect with Me
-<p>
-  <a href="mailto:ayzron.dev@outlook.com">📧 Email</a>
-</p>
-
----
-
-<p align="center">
-  ⚡ "Build something that outlives you."
-</p>
+<div align="center">
+  <sub>"Sizden daha uzun süre yaşayacak bir şey inşa edin."</sub>
+</div>
