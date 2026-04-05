@@ -46,15 +46,15 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ayzron&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ayzron&theme=default">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayzron&theme=dark">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ayzron&show_icons=true&theme=dracula&locale=tr">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ayzron&show_icons=true&theme=default&locale=tr">
+    <img src="https://github-readme-stats.vercel.app/api?username=ayzron&show_icons=true&theme=dracula&locale=tr">
   </picture>
   <br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-activity-graph.vercel.app/graph?username=ayzron&theme=github-dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-activity-graph.vercel.app/graph?username=ayzron&theme=github-light">
-    <img src="https://github-activity-graph.vercel.app/graph?username=ayzron&theme=github-dark">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ayzron&theme=dark&locale=tr">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ayzron&theme=default&locale=tr">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayzron&theme=dark&locale=tr">
   </picture>
 </p>
 
