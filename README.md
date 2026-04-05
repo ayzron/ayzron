@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Aras Veyron</h1>
+<h3 align="center">🚀 Code. Create. Evolve.</h3>
 
-<!--
-**ayzron/ayzron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Developer;Builder;Always+Learning&center=true&width=380&height=45">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+- 💻 Passionate about coding  
+- ⚡ Building projects under **Ayzron**  
+- 🌌 Interested in technology & innovation  
+- 🔥 Always improving myself  
+
+---
+
+### 🛠️ Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css,python,github" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayzron&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayzron&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+<p>
+  <a href="mailto:ayzron.dev@outlook.com">📧 Email</a>
+</p>
+
+---
+
+<p align="center">
+  ⚡ "Build something that outlives you."
+</p>
