@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Code. Create. Evolve.</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Developer;Builder;Always+Learning&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Developer;Builder;Always+Learning;Ayzron&center=true&width=380&height=45">
 </p>
 
 ---
@@ -11,13 +11,23 @@
 - 💻 Passionate about coding  
 - ⚡ Building projects under **Ayzron**  
 - 🌌 Interested in technology & innovation  
-- 🔥 Always improving myself  
+- 🔥 Focused. Consistent. Relentless.  
 
 ---
 
-### 🛠️ Tech Stack
+### 🖥️ Desktop Development
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,python,git,github,vscode,cs,cpp,dotnet" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet" />
+</p>
+
+### 🌐 Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs" />
+</p>
+
+### ⚙️ Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
 </p>
 
 ---
